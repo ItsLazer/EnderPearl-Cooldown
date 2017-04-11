@@ -1,0 +1,5 @@
+name: EPCooldown
+main: AppleDevelops\Loader
+version: 1.0.0
+api: [3.0.0, 3.0.0-ALPHA5]
+author: AppleDevelops
