@@ -36,7 +36,7 @@ class Loader extends PluginBase implements Listener{
                     $this->timer[$name] = time() + $this->coolDown;
                 } else {
                     $shooter->sendPopup($this->getConfig()->get("cooldown-message"));
-                    $event->setCancelled();
+                    $event->setCancelled();     
                 }
             }
         }
