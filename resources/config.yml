@@ -1,2 +1,5 @@
+#this sets the cooldown timer eg, cooldown-timer: 10
 cooldown-timer: 10
+
+#this is the cooldown message
 cooldown-message: "§cYou cannot use this right now!"
